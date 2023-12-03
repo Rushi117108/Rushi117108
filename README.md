@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Spring-Boot, JavaScript, AWS**
 
+ - 🔭 I have interest in **Software Development, Computer Vision** ...
+
 - 📫 How to reach me **rushikeshshiralekar@gmail.com**
 
 - 📄 My Resume [https://drive.google.com/file/d/1hS1as6FJgloOetg7JeD-x_Emp1sDWXck/view?usp=drive_link](https://drive.google.com/file/d/1hS1as6FJgloOetg7JeD-x_Emp1sDWXck/view?usp=drive_link)
