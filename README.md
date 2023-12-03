@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rushikesh Shiralekar</h1>
 <h3 align="center">A Masters's Student at NIT, Warangal</h3>
 
-- 🌱 I’m currently learning **Spring-Boot, JavaScript**
+- 🌱 I’m currently learning **Spring-Boot, JavaScript, AWS**
 
 - 📫 How to reach me **rushikeshshiralekar@gmail.com**
 
